@@ -1,0 +1,1846 @@
+{
+    "applications": [
+        {
+            "id": 85321152,
+            "cargo": {
+                "volume": null,
+                "weight": 0.004
+            },
+            "weight": 0.004,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "140108, Московская обл, Раменское г, Михалевича ул, дом 114",
+                    "city": "Раменское",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.554125,
+                        "lon": 38.266565
+                    },
+                    "date_from": 1632104772,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, Няндомский р-н, Няндома г, Партизанская ул, дом 12, строение 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634264772,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631705172,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "ALS0026619",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 39108011,
+            "cargo": {
+                "volume": null,
+                "weight": 0.01
+            },
+            "weight": 0.01,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "603037, Нижегородская обл, г Нижний Новгород, ул Федосеенко, д. 41",
+                    "city": "Нижний Новгород",
+                    "action": "load",
+                    "region": "Нижегородская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 56.3420545,
+                        "lon": 43.8128448
+                    },
+                    "date_from": 1632105480,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634265480,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631705880,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ0128059",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 44555406,
+            "cargo": {
+                "volume": null,
+                "weight": 0.01
+            },
+            "weight": 0.01,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "140090, Московская обл, г Дзержинский, ул Энергетиков, д. 6",
+                    "city": "Дзержинский",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.6392621,
+                        "lon": 37.8307849
+                    },
+                    "date_from": 1632108262,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634268262,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631708662,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ0128101",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 98034494,
+            "cargo": {
+                "volume": null,
+                "weight": 0.14
+            },
+            "weight": 0.14,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "302020, Орловская обл, г Орёл, ул Цветаева, д. 1Б",
+                    "city": "Орёл",
+                    "action": "load",
+                    "region": "Орловская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 52.9812477,
+                        "lon": 36.0396892
+                    },
+                    "date_from": 1632109504,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634269504,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631709904,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ0128125",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 55978625,
+            "cargo": {
+                "volume": null,
+                "weight": 0.0015
+            },
+            "weight": 0.0015,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "Московская обл, г.о. Подольск, г Подольск, мкр. Климовск, ул Заводская, д. 2, к. 121",
+                    "city": "Климовск",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.379229,
+                        "lon": 37.5488664
+                    },
+                    "date_from": 1632109711,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634269711,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631710111,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ0128097",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 48928485,
+            "cargo": {
+                "volume": null,
+                "weight": 0.2
+            },
+            "weight": 0.2,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "143903, Московская обл, Балашиха г, Западная промзона тер, Энтузиастов ш, дом 4",
+                    "city": "Балашиха",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.7947979,
+                        "lon": 37.9027797
+                    },
+                    "date_from": 1632137171,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, Няндомский р-н, Няндома г, Партизанская ул, дом 12, строение 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634297171,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631694371,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "ALS006564",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 41252020,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 985412,
+                        "name": "Винт SANDVIK 346 885513N27",
+                        "unit_id": 1,
+                        "place_id": 738,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 738,
+                        "width": 1.0,
+                        "height": 1.0,
+                        "length": 1.0,
+                        "volume": 1.0,
+                        "weight": 2.0,
+                        "quantity": 1,
+                        "package_type_id": 1
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.0,
+                    "height": 1.0,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "214393",
+                    "addr": "Россия, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.724447,
+                        "lon": 37.646921
+                    },
+                    "date_from": 1616655600
+                },
+                {
+                    "id": "214392",
+                    "addr": "Россия, Республика Карелия, Петрозаводск",
+                    "city": "Петрозаводск",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.786462,
+                        "lon": 34.419215
+                    },
+                    "date_from": 1616749200
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1614783446,
+            "delivery_type": "LTL",
+            "customer_price": 46887.0,
+            "document_number": "simple1",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 28866790,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 138345,
+                        "name": "Винт SANDVIK 346 885513N27",
+                        "unit_id": 1,
+                        "place_id": 736,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 739,
+                        "width": 1.0,
+                        "height": 1.0,
+                        "length": 1.0,
+                        "volume": 1.0,
+                        "weight": 6.27,
+                        "quantity": 1,
+                        "package_type_id": 1
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.0,
+                    "height": 1.0,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "214390",
+                    "addr": "Россия, Республика Карелия, Петрозаводск",
+                    "city": "Петрозаводск",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.786462,
+                        "lon": 34.419215
+                    },
+                    "date_from": 1616662800
+                },
+                {
+                    "id": "214391",
+                    "addr": "Россия, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.724447,
+                        "lon": 37.646921
+                    },
+                    "date_from": 1616479200
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1614783423,
+            "delivery_type": "LTL",
+            "customer_price": 46887.0,
+            "document_number": "simple2",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 96475728,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 138344,
+                        "name": "Винт SANDVIK 346 885513N27",
+                        "unit_id": 1,
+                        "place_id": 735,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 740,
+                        "width": 1.0,
+                        "height": 1.0,
+                        "length": 1.0,
+                        "volume": 1.0,
+                        "weight": 4.79,
+                        "quantity": 1,
+                        "package_type_id": 1
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.0,
+                    "height": 1.0,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "214395",
+                    "addr": "Россия, Республика Карелия, Петрозаводск",
+                    "city": "Петрозаводск",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.786462,
+                        "lon": 34.419215
+                    },
+                    "date_from": 1616576400
+                },
+                {
+                    "id": "214394",
+                    "addr": "Россия, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.724447,
+                        "lon": 37.646921
+                    },
+                    "date_from": 1616392800
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1614782722,
+            "delivery_type": "LTL",
+            "customer_price": 46887.0,
+            "document_number": "simple3",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 91306201,
+            "cargo": null,
+            "weight": 8.64,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "433878",
+                    "addr": "Россия, Санкт-Петербург",
+                    "city": "Санкт-Петербург",
+                    "action": "load",
+                    "region": "Санкт-Петербург",
+                    "date_to": null,
+                    "location": {
+                        "lat": 59.917618,
+                        "lon": 30.304908
+                    },
+                    "date_from": 1637748000,
+                    "region_id": null
+                },
+                {
+                    "id": "433879",
+                    "addr": "Россия, Мурманск, Портовый проезд, 50",
+                    "city": "Мурманск",
+                    "action": "unload",
+                    "region": "Мурманская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 68.978537,
+                        "lon": 33.075834
+                    },
+                    "date_from": 1638180000,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1637645065,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "firstm1",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": false,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 57435008,
+            "cargo": null,
+            "weight": 0.002,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "191119, Санкт-Петербург г, ул Днепропетровская, д. 2",
+                    "city": "Санкт-Петербург",
+                    "action": "load",
+                    "region": "Санкт-Петербург",
+                    "date_to": null,
+                    "location": {
+                        "lat": 59.917522,
+                        "lon": 30.3624269
+                    },
+                    "date_from": 1637988214,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "186615, Карелия Респ, р-н Кемский, г Кемь, ул Октябрьская, д. 30, корр дом 31",
+                    "city": "Кемь",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 64.9574589,
+                        "lon": 34.5702619
+                    },
+                    "date_from": 1640148214,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1637545414,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "firstm2",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 493891,
+            "cargo": null,
+            "weight": 0.15,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "192019, Санкт-Петербург г, вн.тер.г. муниципальный округ Невская застава, ул Смоляная, д. 9, литера А, помещ. 114",
+                    "city": "Санкт-Петербург",
+                    "action": "load",
+                    "region": "Санкт-Петербург",
+                    "date_to": null,
+                    "location": {
+                        "lat": 59.8930809,
+                        "lon": 30.414082
+                    },
+                    "date_from": 1638014400,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "692510, Приморский край, г Уссурийск, пр-кт Блюхера, д. 19",
+                    "city": "Уссурийск",
+                    "action": "unload",
+                    "region": "Приморский край",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 43.8064381,
+                        "lon": 131.9819194
+                    },
+                    "date_from": 1640174400,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1637485200,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "firstm3",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 22494471,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 201444,
+                        "name": "Кабель",
+                        "unit_id": 1,
+                        "place_id": 13456,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 13564,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "length": 1.0,
+                        "volume": 0.3,
+                        "weight": 0.2,
+                        "quantity": 1,
+                        "package_type_id": 8
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.3,
+                    "height": 1.2,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "299721",
+                    "addr": "Россия, Москва, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.764536,
+                        "lon": 37.627984
+                    },
+                    "date_from": 1622959200
+                },
+                {
+                    "id": "300720",
+                    "addr": "Россия, Ярославская область, Ярославль, улица Нахимсона, 5Б",
+                    "city": "Ярославль",
+                    "action": "unload",
+                    "region": "Ярославская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 57.62456,
+                        "lon": 39.893417
+                    },
+                    "date_from": 1622988000
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1617705686,
+            "delivery_type": "LTL",
+            "customer_price": 62835.0,
+            "document_number": "other1",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 34259949,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 201444,
+                        "name": "Кабель",
+                        "unit_id": 1,
+                        "place_id": 13456,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 13564,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "length": 1.0,
+                        "volume": 0.3,
+                        "weight": 0.2,
+                        "quantity": 1,
+                        "package_type_id": 8
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.3,
+                    "height": 1.2,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "299731",
+                    "addr": "Россия, Москва, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.764536,
+                        "lon": 37.627984
+                    },
+                    "date_from": 1622959200
+                },
+                {
+                    "id": "300743",
+                    "addr": "Россия, Ярославская область, Ярославль, улица Нахимсона, 5Б",
+                    "city": "Ярославль",
+                    "action": "unload",
+                    "region": "Ярославская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 57.62456,
+                        "lon": 39.893417
+                    },
+                    "date_from": 1622988000
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1617705686,
+            "delivery_type": "LTL",
+            "customer_price": 62835.0,
+            "document_number": "other2",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 46281278,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 231444,
+                        "name": "Кабель",
+                        "unit_id": 1,
+                        "place_id": 13456,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 13544,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "length": 1.0,
+                        "volume": 0.3,
+                        "weight": 0.2,
+                        "quantity": 1,
+                        "package_type_id": 8
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.3,
+                    "height": 1.2,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "299751",
+                    "addr": "Россия, Москва, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.764536,
+                        "lon": 37.627984
+                    },
+                    "date_from": 1622959200
+                },
+                {
+                    "id": "300740",
+                    "addr": "Россия, Ярославская область, Ярославль, улица Нахимсона, 5Б",
+                    "city": "Ярославль",
+                    "action": "unload",
+                    "region": "Ярославская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 57.62456,
+                        "lon": 39.893417
+                    },
+                    "date_from": 1622988000
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1617705686,
+            "delivery_type": "LTL",
+            "customer_price": 62835.0,
+            "document_number": "other3",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 76389492,
+            "cargo": {
+                "volume": null,
+                "weight": 0.004
+            },
+            "weight": 0.004,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "140108, Московская обл, Раменское г, Михалевича ул, дом 114",
+                    "city": "Раменское",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.554125,
+                        "lon": 38.266565
+                    },
+                    "date_from": 1632104772,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, Няндомский р-н, Няндома г, Партизанская ул, дом 12, строение 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634264772,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631705172,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "ALS04026619",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 26222883,
+            "cargo": {
+                "volume": null,
+                "weight": 0.01
+            },
+            "weight": 0.01,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "603037, Нижегородская обл, г Нижний Новгород, ул Федосеенко, д. 41",
+                    "city": "Нижний Новгород",
+                    "action": "load",
+                    "region": "Нижегородская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 56.3420545,
+                        "lon": 43.8128448
+                    },
+                    "date_from": 1632105480,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634265480,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631705880,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ048059",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 43668068,
+            "cargo": {
+                "volume": null,
+                "weight": 0.01
+            },
+            "weight": 0.01,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "140090, Московская обл, г Дзержинский, ул Энергетиков, д. 6",
+                    "city": "Дзержинский",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.6392621,
+                        "lon": 37.8307849
+                    },
+                    "date_from": 1632108262,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634268262,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631708662,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ04101",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 16649389,
+            "cargo": {
+                "volume": null,
+                "weight": 0.14
+            },
+            "weight": 0.14,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "302020, Орловская обл, г Орёл, ул Цветаева, д. 1Б",
+                    "city": "Орёл",
+                    "action": "load",
+                    "region": "Орловская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 52.9812477,
+                        "lon": 36.0396892
+                    },
+                    "date_from": 1632109504,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634269504,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631709904,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ01281425",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 65417339,
+            "cargo": {
+                "volume": null,
+                "weight": 0.0015
+            },
+            "weight": 0.0015,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "Московская обл, г.о. Подольск, г Подольск, мкр. Климовск, ул Заводская, д. 2, к. 121",
+                    "city": "Климовск",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.379229,
+                        "lon": 37.5488664
+                    },
+                    "date_from": 1632109711,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, р-н Няндомский, г Няндома, ул Партизанская, д. 12, стр. 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634269711,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631710111,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "СЛ01284097",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 21647299,
+            "cargo": {
+                "volume": null,
+                "weight": 0.2
+            },
+            "weight": 0.2,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "143903, Московская обл, Балашиха г, Западная промзона тер, Энтузиастов ш, дом 4",
+                    "city": "Балашиха",
+                    "action": "load",
+                    "region": "Московская область",
+                    "date_to": null,
+                    "location": {
+                        "lat": 55.7947979,
+                        "lon": 37.9027797
+                    },
+                    "date_from": 1632137171,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "164200, Архангельская обл, Няндомский р-н, Няндома г, Партизанская ул, дом 12, строение 80",
+                    "city": "Няндома",
+                    "action": "unload",
+                    "region": "Архангельская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.6668865,
+                        "lon": 40.1960547
+                    },
+                    "date_from": 1634297171,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1631694371,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "ALS0406564",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 21706379,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 985412,
+                        "name": "Винт SANDVIK 346 885513N27",
+                        "unit_id": 1,
+                        "place_id": 738,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 738,
+                        "width": 1.0,
+                        "height": 1.0,
+                        "length": 1.0,
+                        "volume": 1.0,
+                        "weight": 2.0,
+                        "quantity": 1,
+                        "package_type_id": 1
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.0,
+                    "height": 1.0,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "214393",
+                    "addr": "Россия, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.724447,
+                        "lon": 37.646921
+                    },
+                    "date_from": 1616655600
+                },
+                {
+                    "id": "214392",
+                    "addr": "Россия, Республика Карелия, Петрозаводск",
+                    "city": "Петрозаводск",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.786462,
+                        "lon": 34.419215
+                    },
+                    "date_from": 1616749200
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1614783446,
+            "delivery_type": "LTL",
+            "customer_price": 46887.0,
+            "document_number": "sim4ple1",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 20204664,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 138345,
+                        "name": "Винт SANDVIK 346 885513N27",
+                        "unit_id": 1,
+                        "place_id": 736,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 739,
+                        "width": 1.0,
+                        "height": 1.0,
+                        "length": 1.0,
+                        "volume": 1.0,
+                        "weight": 6.27,
+                        "quantity": 1,
+                        "package_type_id": 1
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.0,
+                    "height": 1.0,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "214390",
+                    "addr": "Россия, Республика Карелия, Петрозаводск",
+                    "city": "Петрозаводск",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.786462,
+                        "lon": 34.419215
+                    },
+                    "date_from": 1616662800
+                },
+                {
+                    "id": "214391",
+                    "addr": "Россия, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.724447,
+                        "lon": 37.646921
+                    },
+                    "date_from": 1616479200
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1614783423,
+            "delivery_type": "LTL",
+            "customer_price": 46887.0,
+            "document_number": "simp4le2",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 28053541,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 138344,
+                        "name": "Винт SANDVIK 346 885513N27",
+                        "unit_id": 1,
+                        "place_id": 735,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 740,
+                        "width": 1.0,
+                        "height": 1.0,
+                        "length": 1.0,
+                        "volume": 1.0,
+                        "weight": 4.79,
+                        "quantity": 1,
+                        "package_type_id": 1
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.0,
+                    "height": 1.0,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "214395",
+                    "addr": "Россия, Республика Карелия, Петрозаводск",
+                    "city": "Петрозаводск",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 61.786462,
+                        "lon": 34.419215
+                    },
+                    "date_from": 1616576400
+                },
+                {
+                    "id": "214394",
+                    "addr": "Россия, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.724447,
+                        "lon": 37.646921
+                    },
+                    "date_from": 1616392800
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1614782722,
+            "delivery_type": "LTL",
+            "customer_price": 46887.0,
+            "document_number": "simp4le3",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 70727660,
+            "cargo": null,
+            "weight": 8.64,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "433878",
+                    "addr": "Россия, Санкт-Петербург",
+                    "city": "Санкт-Петербург",
+                    "action": "load",
+                    "region": "Санкт-Петербург",
+                    "date_to": null,
+                    "location": {
+                        "lat": 59.917618,
+                        "lon": 30.304908
+                    },
+                    "date_from": 1637748000,
+                    "region_id": null
+                },
+                {
+                    "id": "433879",
+                    "addr": "Россия, Мурманск, Портовый проезд, 50",
+                    "city": "Мурманск",
+                    "action": "unload",
+                    "region": "Мурманская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 68.978537,
+                        "lon": 33.075834
+                    },
+                    "date_from": 1638180000,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1637645065,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "firs4tm1",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": false,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": false,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 30792921,
+            "cargo": null,
+            "weight": 0.002,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "191119, Санкт-Петербург г, ул Днепропетровская, д. 2",
+                    "city": "Санкт-Петербург",
+                    "action": "load",
+                    "region": "Санкт-Петербург",
+                    "date_to": null,
+                    "location": {
+                        "lat": 59.917522,
+                        "lon": 30.3624269
+                    },
+                    "date_from": 1637988214,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "186615, Карелия Респ, р-н Кемский, г Кемь, ул Октябрьская, д. 30, корр дом 31",
+                    "city": "Кемь",
+                    "action": "unload",
+                    "region": "Республика Карелия",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 64.9574589,
+                        "lon": 34.5702619
+                    },
+                    "date_from": 1640148214,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1637545414,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "first4m2",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 3970238,
+            "cargo": null,
+            "weight": 0.15,
+            "due_date": null,
+            "voyage_id": null,
+            "waypoints": [
+                {
+                    "id": "0",
+                    "addr": "192019, Санкт-Петербург г, вн.тер.г. муниципальный округ Невская застава, ул Смоляная, д. 9, литера А, помещ. 114",
+                    "city": "Санкт-Петербург",
+                    "action": "load",
+                    "region": "Санкт-Петербург",
+                    "date_to": null,
+                    "location": {
+                        "lat": 59.8930809,
+                        "lon": 30.414082
+                    },
+                    "date_from": 1638014400,
+                    "region_id": null
+                },
+                {
+                    "id": "0",
+                    "addr": "692510, Приморский край, г Уссурийск, пр-кт Блюхера, д. 19",
+                    "city": "Уссурийск",
+                    "action": "unload",
+                    "region": "Приморский край",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 43.8064381,
+                        "lon": 131.9819194
+                    },
+                    "date_from": 1640174400,
+                    "region_id": null
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1637485200,
+            "delivery_type": "LTL",
+            "customer_price": null,
+            "document_number": "firstm43",
+            "separate_vehicle": false,
+            "cargo_loading_top": false,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "voyage_combination_id": null,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 15097059,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 201444,
+                        "name": "Кабель",
+                        "unit_id": 1,
+                        "place_id": 13456,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 13564,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "length": 1.0,
+                        "volume": 0.3,
+                        "weight": 0.2,
+                        "quantity": 1,
+                        "package_type_id": 8
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.3,
+                    "height": 1.2,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "299721",
+                    "addr": "Россия, Москва, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.764536,
+                        "lon": 37.627984
+                    },
+                    "date_from": 1622959200
+                },
+                {
+                    "id": "300720",
+                    "addr": "Россия, Ярославская область, Ярославль, улица Нахимсона, 5Б",
+                    "city": "Ярославль",
+                    "action": "unload",
+                    "region": "Ярославская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 57.62456,
+                        "lon": 39.893417
+                    },
+                    "date_from": 1622988000
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1617705686,
+            "delivery_type": "LTL",
+            "customer_price": 62835.0,
+            "document_number": "othe4r1",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 49482358,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 201444,
+                        "name": "Кабель",
+                        "unit_id": 1,
+                        "place_id": 13456,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 13564,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "length": 1.0,
+                        "volume": 0.3,
+                        "weight": 0.2,
+                        "quantity": 1,
+                        "package_type_id": 8
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.3,
+                    "height": 1.2,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "299731",
+                    "addr": "Россия, Москва, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.764536,
+                        "lon": 37.627984
+                    },
+                    "date_from": 1622959200
+                },
+                {
+                    "id": "300743",
+                    "addr": "Россия, Ярославская область, Ярославль, улица Нахимсона, 5Б",
+                    "city": "Ярославль",
+                    "action": "unload",
+                    "region": "Ярославская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 57.62456,
+                        "lon": 39.893417
+                    },
+                    "date_from": 1622988000
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1617705686,
+            "delivery_type": "LTL",
+            "customer_price": 62835.0,
+            "document_number": "othe4r2",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "cargo_loading_racks_removal": false
+        },
+        {
+            "id": 33746412,
+            "cargo": {
+                "cargo_items": [
+                    {
+                        "id": 231444,
+                        "name": "Кабель",
+                        "unit_id": 1,
+                        "place_id": 13456,
+                        "quantity": 1.0
+                    }
+                ],
+                "cargo_places": [
+                    {
+                        "id": 13544,
+                        "width": 0.3,
+                        "height": 0.3,
+                        "length": 1.0,
+                        "volume": 0.3,
+                        "weight": 0.2,
+                        "quantity": 1,
+                        "package_type_id": 8
+                    }
+                ],
+                "places_count": null,
+                "max_dimensions": {
+                    "width": 1.3,
+                    "height": 1.2,
+                    "length": 1.0
+                }
+            },
+            "waypoints": [
+                {
+                    "id": "299751",
+                    "addr": "Россия, Москва, Москва",
+                    "city": "Москва",
+                    "action": "load",
+                    "region": "Москва",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 55.764536,
+                        "lon": 37.627984
+                    },
+                    "date_from": 1622959200
+                },
+                {
+                    "id": "300740",
+                    "addr": "Россия, Ярославская область, Ярославль, улица Нахимсона, 5Б",
+                    "city": "Ярославль",
+                    "action": "unload",
+                    "region": "Ярославская область",
+                    "date_to": null,
+                    "distance": 0.0,
+                    "location": {
+                        "lat": 57.62456,
+                        "lon": 39.893417
+                    },
+                    "date_from": 1622988000
+                }
+            ],
+            "is_baggage": false,
+            "is_express": false,
+            "created_date": 1617705686,
+            "delivery_type": "LTL",
+            "customer_price": 62835.0,
+            "document_number": "oth4er3",
+            "separate_vehicle": false,
+            "cargo_loading_top": true,
+            "cargo_loading_back": true,
+            "cargo_loading_bulk": false,
+            "cargo_loading_side": true,
+            "cargo_loading_racks_removal": false
+        }
+    ]
+}

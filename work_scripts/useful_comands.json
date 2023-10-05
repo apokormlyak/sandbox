@@ -1,0 +1,353 @@
+ГУ: Evboa044!
+
+Полезные команды:
+
+docker-compose exec django ./manage.py shell <delete_all.py 
+(или docker-compose run django ./manage.py shell) - запускает интерпретатор python /django/
+
+>>>exit() - для выхода
+
+Удаление джоб:
+
+from apps.verification.models import Job, Combination, Route, Application
+
+
+____________________________________________
+
+xplanet
+
+54c6a679893bfef3
+d0b2473ed2c21db4
+ca24a30a48c00901
+e5a4c469fb2f0da2
+8ad0bae3b22eba59
+5db9a7f73c18ca4c
+f9b0bc48874bcd2c
+7700f39685dbef3a
+dd1fde6e055e2232
+d2a217c93155fcc2
+
+_____________________________________________
+
+glpat-NhUyB4sJ6SiJTox5Wh8H
+_____________________________________________
+
+ 
+
+Job.objects.all().delete()
+Combination.objects.all().delete()
+Route.objects.all().delete()
+Application.objects.all().delete()
+
+
+    Для регионов дальше 
+from apps.pricing.models import Region
+
+regions = Region.objects.all()   # list of all regions
+
+    Потом будет полезно 
+region = Region.objects.get(code=my_id)
+my_id - тип int
+​
+    region.name - название региона
+region.code - ...
+
+
+Для запуска команды get_region из shell 
+from apps.pricing.data_preload import get_region
+
+>>> name = get_region(name='область Кемеровская область Юрга', code=42)
+>>> name
+<Region: Кемеровская область>
+
+
+how to make backup from db
+
+docker exec log-x_postgres_1 pg_dump -U admin log_db>backup
+
+<container_name> - log-x_postgres_1
+ pg_dump - https://selectel.ru/blog/postgresql-backup-tools/
+  <schema_name> - log_db
+
+Следующая команда будет сбрасывать только вставки из всех таблиц:
+
+docker exec <container_name> pg_dump --column-inserts --data-only  <schema_name> > inserts.sql
+
+docker-compose logs django
+
+docker logs --tail 1000 -f log-x_celery_solo_1
+
+
+>>> from uuid import uuid4
+>>> uuid4()
+UUID('7b92d717-6762-4482-b5c0-20be747e724b')
+
+docker stop $(docker ps -a -q)
+docker rm $(docker ps -a -q)
+
+
+docker-compose down -v
+docker volume rm db_data_logx
+
+docker volume rm redis_data
+
+
+
+Проверка кол-ва запросов и сваггер
+
+http://0.0.0.0:8000/admin/ - авторизоваться
+http://0.0.0.0:8000/silk/request/
+
+Пароли
+
+hdfnl387hdJjs admin
+
+c
+hdfnl387hdJjs
+
+
+docker-compose logs -f celery_solo | grep "FTL-LTL choosing-loop"
+
+
+elastic_ / 9HblrkVfckPNm1idA9PI
+
+https://c-c9q9rb4352o77d217kgc.rw.mdb.yandexcloud.net/ - яндекс кибана
+
+______________________________________________________
+Графики
+
+
+
+Job.objects.filter(date_created__gte='2021-12-12 23:59:59').delete()
+
+Combination.objects.filter(jobs__isnull=True).delete()
+
+Route.objects.filter(jobs__isnull=True).delete()
+
+ApplicationVersion.objects.filter(combinations__isnull=True).delete()
+
+
+
+
+ssh logx@logx-dev2.factory5.ai
+cd /logx/log-x
+docker-compose exec django ./manage.py shell_plus
+c = Combination.objects.get(pk=175907)
+c.status='SENT'
+c.save()
+
+сентри
+https://sentry.m5.factory5.ai/organizations/sentry/issues/3325/?environment=dev2&project=2&query=is%3Aunresolved
+
+m5@factory5.ai / 0852133
+
+
+
+In [3]: from apps.liveconfigs.management.commands.delete_unused_configs import Command
+
+In [4]: c=Command()
+
+In [5]: c.help
+Out[5]: 'Удалить конфиги, которые есть в БД, но нет в коде'
+
+In [6]: c.handle()
+
+____________
+
+docker-compose run --rm django ./manage.py shell_plus
+
+Combination.objects.filter(status='ON_SEND').delete()2
+
+sudo service docker restart
+
+sudo netstat -tunlp
+sudo netstat -ntulp | grep 5555
+sudo service docker restart
+
+docker login -u gitlab+deploy-token-244432 -p Sw3W8144fVuu7UdU7fnk registry.gitlab.com
+docker-compose down --remove-orphans
+
+
+Накатить миграции
+docker-compose exec backend alembic upgrade head
+
+Посмотреть список миграций
+docker-compose exec backend alembic history
+
+
+Откатить миграции
+alembic downgrade 5f8245fa3ef0
+
+Запущенные контейнеры 
+docker ps
+
+
+sudo ss -lptn 'sport = :5432' - посмотреть подключение к порту??regions
+sudo lsof -i :5432
+
+sudo service postgresql stop
+
+https://us04web.zoom.us/j/8521550070?pwd=ZUtSUys5ak9PK0o5ZUlNcm1YU1diZz09 - стендап
+
+
+
+
+stage
+locozakaz@yandex.ru - под ним создавать заявку
+logx.system@xplanet.ru - под ним запрашивать детали
+
+пароль: xpl100500net
+
+Алгоритмы и структуры данных - джава
+
+testmanager deploy-token
+gitlab+deploy-token-1452503
+-kXo4LKwbPCyKTZgTNys
+
+Как поднять фронт на газпроме:
+В файле docker-compose.override.local.yml раскомментировать часть про фронт:
+frontend и nginx-proxy
+
+В разделе frontend поменять строчку с backend на - BACKEND_URI=http://${SERVER_NAME}:8004
+
+В файле .env сделать BACKEND_CORS_ORIGINS=["http://127.0.0.1", "http://0.0.0.0", "http://localhost", "http://web.localhost"]
+
+Поднять докер, фронт доступен по адресу http://web.localhost
+
+подтянуть обновления фронта docker pull registry.gitlab.com/factory5/gpt-frontend:main
+
+
+
+
+sudo systemctl stop apache2
+sudo systemctl start nginx
+
+SELECT id, code6, gpt_id, railway_id, name, point, is_branch, total_capacity, loading_power, loading_tgnl, nko, unloading_power, unloading_tgnl, wash_power, repair_power, is_deleted, sync_id, wash_tgnl, repair_tgnl
+ FROM public.stations where array_length(wash_tgnl, 1) > 0 and array_length(repair_tgnl, 1) > 0s
+
+
+ СЛД: 
+ docker-compose run --rm django ./manage.py get_products
+
+заходи в реестр СЛД
+
+и нажимай импорт
+
+потом docker-compose run --rm django ./manage.py get_supplier
+
+docker-compose run --rm django ./manage.py get_plan
+docker-compose run --rm django ./manage.py clearcache
+
+ssh alex@158.160.21.251
+ cd seoq-backend/
+docker-compose run --rm django ./manage.py shell
+
+from apps.calc.models import (
+    City,
+    OrderStats,
+    Product,
+    ProductCategory,
+    Region,
+    RepairDepot,
+    ResultsShippingToDepot,
+    ResultsShippingToDepotFromWarehouse,
+    ResultsShippingToWarehouse,
+    Session,
+    SimilarProduct,
+    Source,
+    SupplyRequest,
+    Warehouse,
+)
+города, тмц, саплаерс, склады
+
+
+Product.objects.filter(code_skmtr='sdkfhkjsdf').first().dict
+
+docker-compose logs --tail=10000 celery > 1.txt
+
+docker-compose run --rm -p 8886:8886 django ./manage.py shell_plus --notebook
+
+
+_________
+Очистить очередь на отправку:
+
+ssh logx@logx-dev2.factory5.ai
+cd logx/log-x
+sudo docker-compose exec django ./manage.py shell_plus
+(sudo не на всех серверах нужен, сначала без него пробуем)
+
+Очистка очереди на отправку через shell_plus
+from apps.verification.models import Combination, Route
+from django.utils import timezone
+
+Combination.objects.filter(status='ON_SEND').count()
+Combination.objects.filter(status='ON_SEND').delete()
+Combination.objects.filter(status='ON_SEND').count()
+
+Combination.objects.filter(status='APPROVE', created_at__lt=(timezone.now()-timezone.timedelta(days=1))).count()
+Combination.objects.filter(status='APPROVE', created_at__lt=(timezone.now()-timezone.timedelta(days=1))).delete()
+Combination.objects.filter(status='APPROVE', created_at__lt=(timezone.now()-timezone.timedelta(days=1))).count()
+
+Route.objects.filter(Q(is_unconsolidated=True, status="ON_SEND") | Q(hash_sum_sorted__in=set([]))).filter(date_created__lt=(timezone.now()-timezone.timedelta(days=2))).count()
+Route.objects.filter(Q(is_unconsolidated=True, status="ON_SEND") | Q(hash_sum_sorted__in=set([]))).filter(date_created__lt=(timezone.now()-timezone.timedelta(days=2))).delete()
+Route.objects.filter(Q(is_unconsolidated=True, status="ON_SEND") | Q(hash_sum_sorted__in=set([]))).filter(date_created__lt=(timezone.now()-timezone.timedelta(days=2))).count()
+
+
+
+
+docker system prune
+docker volume prune
+
+git rm -r --cached .idea
+
+flake8 ./tests/test_1.py
+isort ./tests/test_1.py
+
+
+Инфраструктура
+
+- JIRA: https://jira.xplanet.ru (L+P)
+
+- Confluence: https://confl.xplanet.ru (L+P)
+
+- Gitlab: https://gitlab.xplanet.tech (LDAP + 2FA)
+
+- Grafana: http://grafana.infra.xplanet.ru (LDAP)
+
+- Prometheus: http://prometheus02.infra.xplanet.ru
+
+- Graylog: http://graylog.infra.xplanet.ru (LDAP)
+
+- Vault: http://vault.infra.xplanet.ru (LDAP)
+
+- MailCatcher: https://mailcatcher.xplanet.tech (xplanet / xpl100500net)
+(вся почта со стендов, кроме production и demo)
+
+- Рабочая почта (web UI): https://mail.factory5.space (L+P)
+
+- IP кубов: 10.110.0.151 (стенды dev, qa), 10.110.0.154 (stage, demo, preprod, production) (SSH key)
+
+
+openvpn3 sessions-list
+
+openvpn3 session-start --config ${CONFIGURATION_PROFILE_NAME}
+openvpn3 session-manage --disconnect --config pokormlyakao.ovpn
+
+
+python -m venv venv
+source venv/bin/activate
+
+sudo -i 
+jenkins password a5e72fa016f74fafb4bc9b1f2f67302b
+
+
+
+
+tests/pkl/distribution_dict.pkl
+
+tests/Входные_данные
+
+docker-compose run --rm backend pytest tests --autotests
+docker-compose exec backend python3 main.py CREATE_ADMIN -u admin -p 123456
+
+docker run --name selenoid p 4444:4444 -v /var/run/docker.sock:/var/run/docker.sock v /your/directory/config/:/etc/selenoid/:ro aerokube/selenoid:1.10.12
