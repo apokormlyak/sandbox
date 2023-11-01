@@ -1,0 +1,40 @@
+{
+    "warning_msg": "Input parameters is not valid. Input days:396 Output days:60",
+    "data": [
+        {
+            "name": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u044b\u0439",
+            "approved_routes_count_list": 66,
+            "rejected_routes_count_list": 128
+        },
+        {
+            "name": "\u0421\u043b\u043e\u0436\u043d\u044b\u0439",
+            "approved_routes_count_list": 754,
+            "rejected_routes_count_list": 1349
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439",
+            "approved_routes_count_list": 390,
+            "rejected_routes_count_list": 221
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439-\u0441\u043b\u043e\u0436\u043d\u044b\u0439",
+            "approved_routes_count_list": 2,
+            "rejected_routes_count_list": 167
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439-\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u043e\u0439",
+            "approved_routes_count_list": 109,
+            "rejected_routes_count_list": 227
+        },
+        {
+            "name": "\u0421\u043b\u043e\u0436\u043d\u044b\u0439-\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u043e\u0439",
+            "approved_routes_count_list": 61,
+            "rejected_routes_count_list": 0
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439-\u0441\u043b\u043e\u0436\u043d\u044b\u0439-\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u043e\u0439",
+            "approved_routes_count_list": 0,
+            "rejected_routes_count_list": 61
+        }
+    ]
+}

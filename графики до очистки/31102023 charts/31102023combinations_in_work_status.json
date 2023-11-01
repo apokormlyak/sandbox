@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "name": "2023-10-31",
+            "in_work_count_list": 78,
+            "approved_count_list": 21,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "warning_msg": "Input parameters is not valid. Input weeks:58 Output weeks:16",
+    "data": [
+        {
+            "name": "2023-07-17:2023-07-23",
+            "ordinary_cost_input_sum": 198312624.8,
+            "ordinary_cost_not_send_sum": 197427958.9,
+            "ordinary_cost_send_sum": 884665.9
+        },
+        {
+            "name": "2023-07-24:2023-07-30",
+            "ordinary_cost_input_sum": 86421250.31,
+            "ordinary_cost_not_send_sum": 85364673.69,
+            "ordinary_cost_send_sum": 1056576.62
+        },
+        {
+            "name": "2023-07-31:2023-08-06",
+            "ordinary_cost_input_sum": 39447225.23,
+            "ordinary_cost_not_send_sum": 38631422.28,
+            "ordinary_cost_send_sum": 815802.95
+        },
+        {
+            "name": "2023-08-07:2023-08-13",
+            "ordinary_cost_input_sum": 176087847.14,
+            "ordinary_cost_not_send_sum": 174987426.51,
+            "ordinary_cost_send_sum": 1100420.63
+        },
+        {
+            "name": "2023-08-14:2023-08-20",
+            "ordinary_cost_input_sum": 160951475.69,
+            "ordinary_cost_not_send_sum": 159871702.72,
+            "ordinary_cost_send_sum": 1079772.97
+        },
+        {
+            "name": "2023-08-21:2023-08-27",
+            "ordinary_cost_input_sum": 166876426.19,
+            "ordinary_cost_not_send_sum": 165764702.58,
+            "ordinary_cost_send_sum": 1111723.61
+        },
+        {
+            "name": "2023-08-28:2023-09-03",
+            "ordinary_cost_input_sum": 64243073.55,
+            "ordinary_cost_not_send_sum": 63241227.73,
+            "ordinary_cost_send_sum": 1001845.82
+        },
+        {
+            "name": "2023-09-04:2023-09-10",
+            "ordinary_cost_input_sum": 66310228.38,
+            "ordinary_cost_not_send_sum": 65170109.84,
+            "ordinary_cost_send_sum": 1140118.54
+        },
+        {
+            "name": "2023-09-11:2023-09-17",
+            "ordinary_cost_input_sum": 173672485.9,
+            "ordinary_cost_not_send_sum": 172554098.68,
+            "ordinary_cost_send_sum": 1118387.22
+        },
+        {
+            "name": "2023-09-18:2023-09-24",
+            "ordinary_cost_input_sum": 63487443.79,
+            "ordinary_cost_not_send_sum": 62393858.21,
+            "ordinary_cost_send_sum": 1093585.58
+        },
+        {
+            "name": "2023-09-25:2023-10-01",
+            "ordinary_cost_input_sum": 45280015.53,
+            "ordinary_cost_not_send_sum": 44238346.79,
+            "ordinary_cost_send_sum": 1041668.74
+        },
+        {
+            "name": "2023-10-02:2023-10-08",
+            "ordinary_cost_input_sum": 180630436.03,
+            "ordinary_cost_not_send_sum": 179541930.78,
+            "ordinary_cost_send_sum": 1088505.25
+        },
+        {
+            "name": "2023-10-09:2023-10-15",
+            "ordinary_cost_input_sum": 45009511.38,
+            "ordinary_cost_not_send_sum": 43979758.02,
+            "ordinary_cost_send_sum": 1029753.36
+        },
+        {
+            "name": "2023-10-16:2023-10-22",
+            "ordinary_cost_input_sum": 173225119.25,
+            "ordinary_cost_not_send_sum": 172189408.2,
+            "ordinary_cost_send_sum": 1035711.05
+        },
+        {
+            "name": "2023-10-23:2023-10-29",
+            "ordinary_cost_input_sum": 43680962.58,
+            "ordinary_cost_not_send_sum": 42692088.04,
+            "ordinary_cost_send_sum": 988874.54
+        },
+        {
+            "name": "2023-10-30:2023-10-31",
+            "ordinary_cost_input_sum": 35751989.54,
+            "ordinary_cost_not_send_sum": 34997484.22,
+            "ordinary_cost_send_sum": 754505.32
+        }
+    ]
+}

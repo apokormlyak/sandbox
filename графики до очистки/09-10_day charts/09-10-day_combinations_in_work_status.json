@@ -1,0 +1,228 @@
+{
+    "data": [
+        {
+            "name": "2023-09-30",
+            "in_work_count_list": 79,
+            "approved_count_list": 24,
+            "rejected_count_list": 35,
+            "frozen_count_list": 20
+        },
+        {
+            "name": "2023-10-01",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-02",
+            "in_work_count_list": 80,
+            "approved_count_list": 24,
+            "rejected_count_list": 36,
+            "frozen_count_list": 20
+        },
+        {
+            "name": "2023-10-03",
+            "in_work_count_list": 158,
+            "approved_count_list": 45,
+            "rejected_count_list": 71,
+            "frozen_count_list": 42
+        },
+        {
+            "name": "2023-10-04",
+            "in_work_count_list": 75,
+            "approved_count_list": 22,
+            "rejected_count_list": 35,
+            "frozen_count_list": 18
+        },
+        {
+            "name": "2023-10-05",
+            "in_work_count_list": 151,
+            "approved_count_list": 42,
+            "rejected_count_list": 67,
+            "frozen_count_list": 42
+        },
+        {
+            "name": "2023-10-06",
+            "in_work_count_list": 79,
+            "approved_count_list": 23,
+            "rejected_count_list": 35,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-07",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 35,
+            "frozen_count_list": 22
+        },
+        {
+            "name": "2023-10-08",
+            "in_work_count_list": 78,
+            "approved_count_list": 21,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-09",
+            "in_work_count_list": 83,
+            "approved_count_list": 25,
+            "rejected_count_list": 36,
+            "frozen_count_list": 22
+        },
+        {
+            "name": "2023-10-10",
+            "in_work_count_list": 78,
+            "approved_count_list": 22,
+            "rejected_count_list": 36,
+            "frozen_count_list": 20
+        },
+        {
+            "name": "2023-10-11",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-12",
+            "in_work_count_list": 80,
+            "approved_count_list": 22,
+            "rejected_count_list": 36,
+            "frozen_count_list": 22
+        },
+        {
+            "name": "2023-10-13",
+            "in_work_count_list": 79,
+            "approved_count_list": 22,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-14",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-15",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-16",
+            "in_work_count_list": 79,
+            "approved_count_list": 23,
+            "rejected_count_list": 35,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-17",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-18",
+            "in_work_count_list": 81,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 22
+        },
+        {
+            "name": "2023-10-19",
+            "in_work_count_list": 80,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-20",
+            "in_work_count_list": 82,
+            "approved_count_list": 24,
+            "rejected_count_list": 36,
+            "frozen_count_list": 22
+        },
+        {
+            "name": "2023-10-21",
+            "in_work_count_list": 79,
+            "approved_count_list": 23,
+            "rejected_count_list": 36,
+            "frozen_count_list": 20
+        },
+        {
+            "name": "2023-10-22",
+            "in_work_count_list": 78,
+            "approved_count_list": 22,
+            "rejected_count_list": 36,
+            "frozen_count_list": 20
+        },
+        {
+            "name": "2023-10-23",
+            "in_work_count_list": 161,
+            "approved_count_list": 45,
+            "rejected_count_list": 74,
+            "frozen_count_list": 42
+        },
+        {
+            "name": "2023-10-24",
+            "in_work_count_list": 78,
+            "approved_count_list": 22,
+            "rejected_count_list": 36,
+            "frozen_count_list": 20
+        },
+        {
+            "name": "2023-10-25",
+            "in_work_count_list": 79,
+            "approved_count_list": 22,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-26",
+            "in_work_count_list": 0,
+            "approved_count_list": 0,
+            "rejected_count_list": 0,
+            "frozen_count_list": 0
+        },
+        {
+            "name": "2023-10-27",
+            "in_work_count_list": 1,
+            "approved_count_list": 1,
+            "rejected_count_list": 0,
+            "frozen_count_list": 0
+        },
+        {
+            "name": "2023-10-28",
+            "in_work_count_list": 1,
+            "approved_count_list": 1,
+            "rejected_count_list": 0,
+            "frozen_count_list": 0
+        },
+        {
+            "name": "2023-10-29",
+            "in_work_count_list": 0,
+            "approved_count_list": 0,
+            "rejected_count_list": 0,
+            "frozen_count_list": 0
+        },
+        {
+            "name": "2023-10-30",
+            "in_work_count_list": 78,
+            "approved_count_list": 22,
+            "rejected_count_list": 35,
+            "frozen_count_list": 21
+        },
+        {
+            "name": "2023-10-31",
+            "in_work_count_list": 78,
+            "approved_count_list": 21,
+            "rejected_count_list": 36,
+            "frozen_count_list": 21
+        }
+    ]
+}

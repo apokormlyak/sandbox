@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "name": "2023-10-31",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        }
+    ]
+}

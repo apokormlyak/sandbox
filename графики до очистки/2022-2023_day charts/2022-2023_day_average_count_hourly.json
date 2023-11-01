@@ -1,0 +1,101 @@
+{
+    "warning_msg": "Input parameters is not valid. Input days:396 Output days:60",
+    "data": [
+        {
+            "name": 1,
+            "count": 34
+        },
+        {
+            "name": 2,
+            "count": 31
+        },
+        {
+            "name": 3,
+            "count": 32
+        },
+        {
+            "name": 4,
+            "count": 5
+        },
+        {
+            "name": 5,
+            "count": 8
+        },
+        {
+            "name": 6,
+            "count": 3
+        },
+        {
+            "name": 7,
+            "count": 3
+        },
+        {
+            "name": 8,
+            "count": 33
+        },
+        {
+            "name": 9,
+            "count": 11
+        },
+        {
+            "name": 10,
+            "count": 3
+        },
+        {
+            "name": 11,
+            "count": 6
+        },
+        {
+            "name": 12,
+            "count": 5
+        },
+        {
+            "name": 13,
+            "count": 6
+        },
+        {
+            "name": 14,
+            "count": 5
+        },
+        {
+            "name": 15,
+            "count": 21
+        },
+        {
+            "name": 16,
+            "count": 10
+        },
+        {
+            "name": 17,
+            "count": 7
+        },
+        {
+            "name": 18,
+            "count": 3
+        },
+        {
+            "name": 19,
+            "count": 2
+        },
+        {
+            "name": 20,
+            "count": 36
+        },
+        {
+            "name": 21,
+            "count": 0
+        },
+        {
+            "name": 22,
+            "count": 36
+        },
+        {
+            "name": 23,
+            "count": 33
+        },
+        {
+            "name": 24,
+            "count": 36
+        }
+    ]
+}

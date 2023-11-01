@@ -1,0 +1,117 @@
+{
+    "warning_msg": "Input parameters is not valid. Input weeks:58 Output weeks:16",
+    "data": [
+        {
+            "name": "2023-07-17:2023-07-23",
+            "in_work_count_list": 317,
+            "approved_count_list": 94,
+            "rejected_count_list": 140,
+            "frozen_count_list": 83
+        },
+        {
+            "name": "2023-07-24:2023-07-30",
+            "in_work_count_list": 683,
+            "approved_count_list": 173,
+            "rejected_count_list": 354,
+            "frozen_count_list": 156
+        },
+        {
+            "name": "2023-07-31:2023-08-06",
+            "in_work_count_list": 160,
+            "approved_count_list": 48,
+            "rejected_count_list": 71,
+            "frozen_count_list": 41
+        },
+        {
+            "name": "2023-08-07:2023-08-13",
+            "in_work_count_list": 716,
+            "approved_count_list": 203,
+            "rejected_count_list": 322,
+            "frozen_count_list": 191
+        },
+        {
+            "name": "2023-08-14:2023-08-20",
+            "in_work_count_list": 555,
+            "approved_count_list": 159,
+            "rejected_count_list": 250,
+            "frozen_count_list": 146
+        },
+        {
+            "name": "2023-08-21:2023-08-27",
+            "in_work_count_list": 645,
+            "approved_count_list": 182,
+            "rejected_count_list": 290,
+            "frozen_count_list": 173
+        },
+        {
+            "name": "2023-08-28:2023-09-03",
+            "in_work_count_list": 314,
+            "approved_count_list": 89,
+            "rejected_count_list": 142,
+            "frozen_count_list": 83
+        },
+        {
+            "name": "2023-09-04:2023-09-10",
+            "in_work_count_list": 557,
+            "approved_count_list": 160,
+            "rejected_count_list": 248,
+            "frozen_count_list": 149
+        },
+        {
+            "name": "2023-09-11:2023-09-17",
+            "in_work_count_list": 641,
+            "approved_count_list": 181,
+            "rejected_count_list": 290,
+            "frozen_count_list": 170
+        },
+        {
+            "name": "2023-09-18:2023-09-24",
+            "in_work_count_list": 592,
+            "approved_count_list": 177,
+            "rejected_count_list": 258,
+            "frozen_count_list": 157
+        },
+        {
+            "name": "2023-09-25:2023-10-01",
+            "in_work_count_list": 556,
+            "approved_count_list": 164,
+            "rejected_count_list": 248,
+            "frozen_count_list": 144
+        },
+        {
+            "name": "2023-10-02:2023-10-08",
+            "in_work_count_list": 703,
+            "approved_count_list": 202,
+            "rejected_count_list": 315,
+            "frozen_count_list": 186
+        },
+        {
+            "name": "2023-10-09:2023-10-15",
+            "in_work_count_list": 558,
+            "approved_count_list": 158,
+            "rejected_count_list": 252,
+            "frozen_count_list": 148
+        },
+        {
+            "name": "2023-10-16:2023-10-22",
+            "in_work_count_list": 561,
+            "approved_count_list": 162,
+            "rejected_count_list": 251,
+            "frozen_count_list": 148
+        },
+        {
+            "name": "2023-10-23:2023-10-29",
+            "in_work_count_list": 398,
+            "approved_count_list": 113,
+            "rejected_count_list": 182,
+            "frozen_count_list": 103
+        },
+        {
+            "name": "2023-10-30:2023-10-31",
+            "in_work_count_list": 156,
+            "approved_count_list": 43,
+            "rejected_count_list": 71,
+            "frozen_count_list": 42
+        }
+    ]
+}

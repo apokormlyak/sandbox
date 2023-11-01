@@ -1,0 +1,228 @@
+{
+    "data": [
+        {
+            "name": "2023-09-30",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-01",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-02",
+            "input_app_count_list": 2535,
+            "excluded_app_count_list": 399,
+            "consolidated_app_count_list": 520,
+            "unconsolidated_app_count_list": 1616
+        },
+        {
+            "name": "2023-10-03",
+            "input_app_count_list": 776,
+            "excluded_app_count_list": 196,
+            "consolidated_app_count_list": 516,
+            "unconsolidated_app_count_list": 64
+        },
+        {
+            "name": "2023-10-04",
+            "input_app_count_list": 778,
+            "excluded_app_count_list": 194,
+            "consolidated_app_count_list": 471,
+            "unconsolidated_app_count_list": 113
+        },
+        {
+            "name": "2023-10-05",
+            "input_app_count_list": 765,
+            "excluded_app_count_list": 196,
+            "consolidated_app_count_list": 507,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-06",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-07",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-08",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-09",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-10",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-11",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-12",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-13",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-14",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-15",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-16",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-17",
+            "input_app_count_list": 958,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 493,
+            "unconsolidated_app_count_list": 272
+        },
+        {
+            "name": "2023-10-18",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 190,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 64
+        },
+        {
+            "name": "2023-10-19",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 190,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 64
+        },
+        {
+            "name": "2023-10-20",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 190,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 64
+        },
+        {
+            "name": "2023-10-21",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-22",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-23",
+            "input_app_count_list": 765,
+            "excluded_app_count_list": 196,
+            "consolidated_app_count_list": 505,
+            "unconsolidated_app_count_list": 64
+        },
+        {
+            "name": "2023-10-24",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-25",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 463,
+            "unconsolidated_app_count_list": 61
+        },
+        {
+            "name": "2023-10-26",
+            "input_app_count_list": 20,
+            "excluded_app_count_list": 0,
+            "consolidated_app_count_list": 20,
+            "unconsolidated_app_count_list": 0
+        },
+        {
+            "name": "2023-10-27",
+            "input_app_count_list": 0,
+            "excluded_app_count_list": 0,
+            "consolidated_app_count_list": 0,
+            "unconsolidated_app_count_list": 0
+        },
+        {
+            "name": "2023-10-28",
+            "input_app_count_list": 0,
+            "excluded_app_count_list": 0,
+            "consolidated_app_count_list": 0,
+            "unconsolidated_app_count_list": 0
+        },
+        {
+            "name": "2023-10-29",
+            "input_app_count_list": 0,
+            "excluded_app_count_list": 0,
+            "consolidated_app_count_list": 0,
+            "unconsolidated_app_count_list": 0
+        },
+        {
+            "name": "2023-10-30",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        },
+        {
+            "name": "2023-10-31",
+            "input_app_count_list": 717,
+            "excluded_app_count_list": 193,
+            "consolidated_app_count_list": 462,
+            "unconsolidated_app_count_list": 62
+        }
+    ]
+}

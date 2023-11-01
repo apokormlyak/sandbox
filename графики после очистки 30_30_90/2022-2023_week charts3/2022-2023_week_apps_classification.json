@@ -1,0 +1,117 @@
+{
+    "warning_msg": "Input parameters is not valid. Input weeks:58 Output weeks:16",
+    "data": [
+        {
+            "name": "2023-07-17:2023-07-23",
+            "input_app_count_list": 3418,
+            "excluded_app_count_list": 508,
+            "consolidated_app_count_list": 781,
+            "unconsolidated_app_count_list": 2129
+        },
+        {
+            "name": "2023-07-24:2023-07-30",
+            "input_app_count_list": 1635,
+            "excluded_app_count_list": 284,
+            "consolidated_app_count_list": 857,
+            "unconsolidated_app_count_list": 494
+        },
+        {
+            "name": "2023-07-31:2023-08-06",
+            "input_app_count_list": 832,
+            "excluded_app_count_list": 203,
+            "consolidated_app_count_list": 520,
+            "unconsolidated_app_count_list": 109
+        },
+        {
+            "name": "2023-08-07:2023-08-13",
+            "input_app_count_list": 3426,
+            "excluded_app_count_list": 501,
+            "consolidated_app_count_list": 1462,
+            "unconsolidated_app_count_list": 1463
+        },
+        {
+            "name": "2023-08-14:2023-08-20",
+            "input_app_count_list": 2723,
+            "excluded_app_count_list": 428,
+            "consolidated_app_count_list": 1928,
+            "unconsolidated_app_count_list": 367
+        },
+        {
+            "name": "2023-08-21:2023-08-27",
+            "input_app_count_list": 2824,
+            "excluded_app_count_list": 410,
+            "consolidated_app_count_list": 2105,
+            "unconsolidated_app_count_list": 309
+        },
+        {
+            "name": "2023-08-28:2023-09-03",
+            "input_app_count_list": 1039,
+            "excluded_app_count_list": 105,
+            "consolidated_app_count_list": 802,
+            "unconsolidated_app_count_list": 132
+        },
+        {
+            "name": "2023-09-04:2023-09-10",
+            "input_app_count_list": 1080,
+            "excluded_app_count_list": 98,
+            "consolidated_app_count_list": 879,
+            "unconsolidated_app_count_list": 103
+        },
+        {
+            "name": "2023-09-11:2023-09-17",
+            "input_app_count_list": 2712,
+            "excluded_app_count_list": 291,
+            "consolidated_app_count_list": 896,
+            "unconsolidated_app_count_list": 1525
+        },
+        {
+            "name": "2023-09-18:2023-09-24",
+            "input_app_count_list": 1099,
+            "excluded_app_count_list": 105,
+            "consolidated_app_count_list": 883,
+            "unconsolidated_app_count_list": 111
+        },
+        {
+            "name": "2023-09-25:2023-10-01",
+            "input_app_count_list": 1011,
+            "excluded_app_count_list": 212,
+            "consolidated_app_count_list": 722,
+            "unconsolidated_app_count_list": 77
+        },
+        {
+            "name": "2023-10-02:2023-10-08",
+            "input_app_count_list": 2985,
+            "excluded_app_count_list": 424,
+            "consolidated_app_count_list": 884,
+            "unconsolidated_app_count_list": 1677
+        },
+        {
+            "name": "2023-10-09:2023-10-15",
+            "input_app_count_list": 1004,
+            "excluded_app_count_list": 211,
+            "consolidated_app_count_list": 714,
+            "unconsolidated_app_count_list": 79
+        },
+        {
+            "name": "2023-10-16:2023-10-22",
+            "input_app_count_list": 1246,
+            "excluded_app_count_list": 208,
+            "consolidated_app_count_list": 745,
+            "unconsolidated_app_count_list": 293
+        },
+        {
+            "name": "2023-10-23:2023-10-29",
+            "input_app_count_list": 929,
+            "excluded_app_count_list": 205,
+            "consolidated_app_count_list": 651,
+            "unconsolidated_app_count_list": 73
+        },
+        {
+            "name": "2023-10-30:2023-10-31",
+            "input_app_count_list": 765,
+            "excluded_app_count_list": 196,
+            "consolidated_app_count_list": 504,
+            "unconsolidated_app_count_list": 65
+        }
+    ]
+}

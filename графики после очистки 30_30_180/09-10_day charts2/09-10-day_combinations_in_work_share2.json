@@ -1,0 +1,202 @@
+{
+    "data": [
+        {
+            "name": "2023-09-30",
+            "build_count_list": 464,
+            "in_work_count_list": 78,
+            "not_in_work_count_list": 381
+        },
+        {
+            "name": "2023-10-01",
+            "build_count_list": 469,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 384
+        },
+        {
+            "name": "2023-10-02",
+            "build_count_list": 496,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 413
+        },
+        {
+            "name": "2023-10-03",
+            "build_count_list": 942,
+            "in_work_count_list": 159,
+            "not_in_work_count_list": 774
+        },
+        {
+            "name": "2023-10-04",
+            "build_count_list": 480,
+            "in_work_count_list": 75,
+            "not_in_work_count_list": 399
+        },
+        {
+            "name": "2023-10-05",
+            "build_count_list": 924,
+            "in_work_count_list": 152,
+            "not_in_work_count_list": 761
+        },
+        {
+            "name": "2023-10-06",
+            "build_count_list": 466,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 382
+        },
+        {
+            "name": "2023-10-07",
+            "build_count_list": 472,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 386
+        },
+        {
+            "name": "2023-10-08",
+            "build_count_list": 471,
+            "in_work_count_list": 78,
+            "not_in_work_count_list": 386
+        },
+        {
+            "name": "2023-10-09",
+            "build_count_list": 475,
+            "in_work_count_list": 83,
+            "not_in_work_count_list": 381
+        },
+        {
+            "name": "2023-10-10",
+            "build_count_list": 473,
+            "in_work_count_list": 78,
+            "not_in_work_count_list": 389
+        },
+        {
+            "name": "2023-10-11",
+            "build_count_list": 470,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 385
+        },
+        {
+            "name": "2023-10-12",
+            "build_count_list": 472,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 387
+        },
+        {
+            "name": "2023-10-13",
+            "build_count_list": 470,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 386
+        },
+        {
+            "name": "2023-10-14",
+            "build_count_list": 471,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 386
+        },
+        {
+            "name": "2023-10-15",
+            "build_count_list": 469,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 384
+        },
+        {
+            "name": "2023-10-16",
+            "build_count_list": 465,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 382
+        },
+        {
+            "name": "2023-10-17",
+            "build_count_list": 485,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 400
+        },
+        {
+            "name": "2023-10-18",
+            "build_count_list": 499,
+            "in_work_count_list": 81,
+            "not_in_work_count_list": 413
+        },
+        {
+            "name": "2023-10-19",
+            "build_count_list": 473,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 388
+        },
+        {
+            "name": "2023-10-20",
+            "build_count_list": 474,
+            "in_work_count_list": 81,
+            "not_in_work_count_list": 388
+        },
+        {
+            "name": "2023-10-21",
+            "build_count_list": 469,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 385
+        },
+        {
+            "name": "2023-10-22",
+            "build_count_list": 469,
+            "in_work_count_list": 78,
+            "not_in_work_count_list": 385
+        },
+        {
+            "name": "2023-10-23",
+            "build_count_list": 963,
+            "in_work_count_list": 163,
+            "not_in_work_count_list": 786
+        },
+        {
+            "name": "2023-10-24",
+            "build_count_list": 466,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 382
+        },
+        {
+            "name": "2023-10-25",
+            "build_count_list": 473,
+            "in_work_count_list": 80,
+            "not_in_work_count_list": 388
+        },
+        {
+            "name": "2023-10-26",
+            "build_count_list": 13,
+            "in_work_count_list": 0,
+            "not_in_work_count_list": 13
+        },
+        {
+            "name": "2023-10-27",
+            "build_count_list": 0,
+            "in_work_count_list": 0,
+            "not_in_work_count_list": 0
+        },
+        {
+            "name": "2023-10-28",
+            "build_count_list": 0,
+            "in_work_count_list": 0,
+            "not_in_work_count_list": 0
+        },
+        {
+            "name": "2023-10-29",
+            "build_count_list": 0,
+            "in_work_count_list": 0,
+            "not_in_work_count_list": 0
+        },
+        {
+            "name": "2023-10-30",
+            "build_count_list": 469,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 386
+        },
+        {
+            "name": "2023-10-31",
+            "build_count_list": 466,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 383
+        }
+    ],
+    "agg": {
+        "name": "sum",
+        "build_count_list": 14668,
+        "in_work_count_list": 2458,
+        "not_in_work_count_list": 12043
+    }
+}

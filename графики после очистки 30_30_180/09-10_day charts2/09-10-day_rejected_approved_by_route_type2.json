@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "name": "\u042d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u0440\u043d\u044b\u0439",
+            "approved_routes_count_list": 34,
+            "rejected_routes_count_list": 66
+        },
+        {
+            "name": "\u0421\u043b\u043e\u0436\u043d\u044b\u0439",
+            "approved_routes_count_list": 376,
+            "rejected_routes_count_list": 697
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439",
+            "approved_routes_count_list": 204,
+            "rejected_routes_count_list": 116
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439-\u0441\u043b\u043e\u0436\u043d\u044b\u0439",
+            "approved_routes_count_list": 2,
+            "rejected_routes_count_list": 82
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439-\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u043e\u0439",
+            "approved_routes_count_list": 55,
+            "rejected_routes_count_list": 114
+        },
+        {
+            "name": "\u0421\u043b\u043e\u0436\u043d\u044b\u0439-\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u043e\u0439",
+            "approved_routes_count_list": 31,
+            "rejected_routes_count_list": 0
+        },
+        {
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u0440\u0435\u0439\u0441\u043e\u0432\u044b\u0439-\u0441\u043b\u043e\u0436\u043d\u044b\u0439-\u043a\u043e\u043b\u044c\u0446\u0435\u0432\u043e\u0439",
+            "approved_routes_count_list": 0,
+            "rejected_routes_count_list": 31
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "2023-10-31",
+            "build_count_list": 466,
+            "in_work_count_list": 79,
+            "not_in_work_count_list": 383
+        }
+    ],
+    "agg": {
+        "name": "sum",
+        "build_count_list": 466,
+        "in_work_count_list": 79,
+        "not_in_work_count_list": 383
+    }
+}
